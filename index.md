@@ -42,7 +42,7 @@
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
-- ASU
+- ESRIN
   - Josef Seabra
 
 
