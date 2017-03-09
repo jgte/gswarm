@@ -2,6 +2,36 @@
 
 ## People
 
+- [TU Delft](http://www.lr.tudelft.nl/en/organisation/departments/space-engineering/astrodynamics-and-space-missions/people/):
+  - Pieter Visser
+  - Jose van den IJssel
+  - Eelco Doornbos
+  - João Encarnação (dual affiliation with CSR, UT Austin)
+  - Xinyuan Mao
+- [AIUB](http://www.aiub.unibe.ch/about_us/team/index_eng.html):
+  - Adrian Jaggi
+  - Daniel Arnold
+  - Christoph Dahle (dual affiliation with GFZ, Germany)
+- [ASU](http://galaxy.asu.cas.cz/planets/index.php?page=people):
+  - Aleš Bezdek
+  - Jaroslav Klokočník
+- [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
+  - Torsten Mayer-Gürr
+  - Norbert Zehentner
+  - Matthias Ellmer
+- [OSU](https://earthsciences.osu.edu/directory):
+  - C.K. Shum
+  - Kin Shang
+  - Junyi Guo
+  - Yu Zhang
+  - Chaoyang Zhang
+
+### G-Swarm researchers not involved in the answer to the Swarm ITT
+
+- ASU
+  - Josef Seabra
+
+
 ## Work Breakdown Structure
 
 
