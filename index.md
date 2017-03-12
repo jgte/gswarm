@@ -172,7 +172,7 @@
   - Please comment on the preliminary work distribution.
     - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-    - None
+    - <span style="color:green">done</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
     - Legal nature: <span style="color:green">Non-Profit Organisation</span>
     - SME: <span style="color:green">No</span>
