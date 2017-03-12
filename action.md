@@ -1,5 +1,11 @@
 # Action items
 
+Note the following:
+- Items in <span style="color:red">red</span> indicate you need to provide the required information.
+- Items in <span style="color:DarkOrange">orange</span> indicate that a default answer is assumed; if you disagree with this default answer, please let me know.
+- Items in <span style="color:green">green</span> indicate you have already provided the answer; please check anyway if you agree with it (I need to handle numerous emails and mistakes are possible).
+
+Jump to:
 - [TU Delft](#tu-delft)
 - [AIUB](#aiub)
 - [ASU](#asu)
