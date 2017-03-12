@@ -52,13 +52,13 @@
   - Please indicate what would be the best date for you to start the activities on this project.
       - June 2017
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
       - N/A
   - Please comment on the preliminary work distribution.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
       - Legal nature: Non-Profit Organisation
       - SME: No
@@ -97,11 +97,11 @@
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
       - Agreed
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please comment on the preliminary work distribution.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
       - Legal nature: Non-Profit Organisation
       - SME: No
@@ -113,9 +113,9 @@
       - Price Type: Firm Fixed
       - Currency: CHF
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please contact your financial department and report to me your hourly rates.
       - AA: <span style="color:red">TBD</span>
       - DA: <span style="color:red">TBD</span>
@@ -136,9 +136,9 @@
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
       - processing of accelerometer measurements possible
   - Please comment on the preliminary work distribution.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
       - Legal nature: Non-Profit Organisation
       - SME: No
@@ -170,7 +170,7 @@
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
       - processing of accelerometer measurements possible
   - Please comment on the preliminary work distribution.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - None
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
@@ -203,13 +203,13 @@
   - Please indicate what would be the best date for you to start the activities on this project.
       - June 2017
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please comment on the preliminary work distribution.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
       - Legal nature: Non-Profit Organisation
       - SME: No
@@ -221,9 +221,9 @@
       - Price Type: Firm Fixed
       - Currency: USD
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - <span style="color:yellow">No comment</span>
+      - <span style="color:DarkOrange">No comment</span>
   - Please contact your financial department and report to me your hourly rates.
       - CKS: <span style="color:red">TBD</span>
       - KS: <span style="color:red">TBD</span>
