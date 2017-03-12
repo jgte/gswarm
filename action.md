@@ -1,10 +1,10 @@
 # Action items
 
-- [TU Delft](#TU-Delft)
-- [AIUB](#AIUB)
-- [ASU](#ASU)
-- [IfG](#IfG)
-- [OSU](#OSU)
+- [TU Delft](#tu-delft)
+- [AIUB](#aiub)
+- [ASU](#asu)
+- [IfG](#ifg)
+- [OSU](#osu)
 
 ## TU Delft
 
