@@ -50,29 +50,29 @@
 
 - TU Delft:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - June 2017
+      - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - N/A
+      - <span style="color:green">N/A/span>
   - Please comment on the preliminary work distribution.
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - <span style="color:DarkOrange">No comment</span>
-  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
-      - Legal nature: Non-Profit Organisation
-      - SME: No
-      - Large Space Integrator: No
+  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+      - SME: <span style="color:green">No</span>
+      - Large Space Integrator: <span style="color:green">No</span>
       - EMITS Bidder Code: <span style="color:green">done</span>
       - esa-p Bidder Code: <span style="color:green">done</span>
       - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: the Netherlands
-      - Price Type: Firm Fixed
-      - Currency: EUR
+      - Country: <span style="color:green">the Netherlands</span>
+      - Price Type: <span style="color:green">Firm Fixed</span>
+      - Currency: <span style="color:green">EUR</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - Agreed
+      - <span style="color:green">Agreed</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - Agreed
+      - <span style="color:green">Agreed</span>
   - Please contact your financial department and report to me your hourly rates.
       - PV: <span style="color:red">TBD</span>
       - JIJ: <span style="color:red">TBD</span>
@@ -93,25 +93,25 @@
       - XM: <span style="color:red">TBD</span>
 - AIUB:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - October 2017
+      - <span style="color:green">October 2017</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - Agreed
+      - <span style="color:green">Agreed</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
       - <span style="color:DarkOrange">No comment</span>
   - Please comment on the preliminary work distribution.
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - <span style="color:DarkOrange">No comment</span>
-  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
-      - Legal nature: Non-Profit Organisation
-      - SME: No
-      - Large Space Integrator: No
+  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+      - SME: <span style="color:green">No</span>
+      - Large Space Integrator: <span style="color:green">No</span>
       - EMITS Bidder Code: <span style="color:red">TBD</span>
       - esa-p Bidder Code: <span style="color:red">TBD</span>
       - esa-p Vendor Code: <span style="color:red">TBD</span>
-      - Country: Swiss Confederation
-      - Price Type: Firm Fixed
-      - Currency: CHF
+      - Country: <span style="color:green">Swiss Confederation</span>
+      - Price Type: <span style="color:green">Firm Fixed</span>
+      - Currency: <span style="color:green">CHF</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
       - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
@@ -130,7 +130,7 @@
         - CD: <span style="color:red">TBD</span>
 - ASU:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - June 2017
+      - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
       - Agreed
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
@@ -139,16 +139,16 @@
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - <span style="color:DarkOrange">No comment</span>
-  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
-      - Legal nature: Non-Profit Organisation
-      - SME: No
-      - Large Space Integrator: No
+  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+      - SME: <span style="color:green">No</span>
+      - Large Space Integrator: <span style="color:green">No</span>
       - EMITS Bidder Code: <span style="color:green">done</span>
       - esa-p Bidder Code: <span style="color:green">done</span>
       - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: Czech Republic
-      - Price Type: Firm Fixed
-      - Currency: CZK
+      - Country: <span style="color:green">Czech Republic</span>
+      - Price Type: <span style="color:green">Firm Fixed</span>
+      - Currency: <span style="color:green">CZK</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
       - Agreed
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
@@ -164,7 +164,7 @@
       - JK: <span style="color:red">TBD</span>
 - IfG:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - June 2017
+      - <span style="color:green">June 2017</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
       - Agreed
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
@@ -173,16 +173,16 @@
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - None
-  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
-      - Legal nature: Non-Profit Organisation
-      - SME: No
-      - Large Space Integrator: No
+  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+      - SME: <span style="color:green">No</span>
+      - Large Space Integrator: <span style="color:green">No</span>
       - EMITS Bidder Code: <span style="color:red">TBD</span>
       - esa-p Bidder Code: <span style="color:red">TBD</span>
       - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: Austria
-      - Price Type: Firm Fixed
-      - Currency: EUR
+      - Country: <span style="color:green">Austria</span>
+      - Price Type: <span style="color:green">Firm Fixed</span>
+      - Currency: <span style="color:green">EUR</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
       - Agreed
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
@@ -201,7 +201,7 @@
       - NZ: <span style="color:green">done</span>
 - OSU:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - June 2017
+      - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
@@ -210,16 +210,16 @@
       - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
       - <span style="color:DarkOrange">No comment</span>
-  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report the following information:
-      - Legal nature: Non-Profit Organisation
-      - SME: No
-      - Large Space Integrator: No
+  - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+      - SME: <span style="color:green">No</span>
+      - Large Space Integrator: <span style="color:green">No</span>
       - EMITS Bidder Code: <span style="color:red">TBD</span>
       - esa-p Bidder Code: <span style="color:red">TBD</span>
       - esa-p Vendor Code: <span style="color:red">TBD</span>
-      - Country: USA
-      - Price Type: Firm Fixed
-      - Currency: USD
+      - Country: <span style="color:green">USA</span>
+      - Price Type: <span style="color:green">Firm Fixed</span>
+      - Currency: <span style="color:green">USD</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
       - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
