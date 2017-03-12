@@ -50,198 +50,198 @@
 
 - TU Delft:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - <span style="color:green">N/A/span>
+    - <span style="color:green">N/A</span>
   - Please comment on the preliminary work distribution.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
-      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
-      - SME: <span style="color:green">No</span>
-      - Large Space Integrator: <span style="color:green">No</span>
-      - EMITS Bidder Code: <span style="color:green">done</span>
-      - esa-p Bidder Code: <span style="color:green">done</span>
-      - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: <span style="color:green">the Netherlands</span>
-      - Price Type: <span style="color:green">Firm Fixed</span>
-      - Currency: <span style="color:green">EUR</span>
+    - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+    - SME: <span style="color:green">No</span>
+    - Large Space Integrator: <span style="color:green">No</span>
+    - EMITS Bidder Code: <span style="color:green">done</span>
+    - esa-p Bidder Code: <span style="color:green">done</span>
+    - esa-p Vendor Code: <span style="color:green">done</span>
+    - Country: <span style="color:green">the Netherlands</span>
+    - Price Type: <span style="color:green">Firm Fixed</span>
+    - Currency: <span style="color:green">EUR</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - <span style="color:green">Agreed</span>
+    - <span style="color:green">Agreed</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - <span style="color:green">Agreed</span>
+    - <span style="color:green">Agreed</span>
   - Please contact your financial department and report to me your hourly rates.
-      - PV: <span style="color:red">TBD</span>
-      - JIJ: <span style="color:red">TBD</span>
-      - ED: <span style="color:red">TBD</span>
-      - JE: <span style="color:red">TBD</span>
-      - XM: <span style="color:red">TBD</span>
-  - Please specify the percentage of time each member is willing/available to spend in this project.
-      - PV: <span style="color:red">TBD</span>
-      - JIJ: <span style="color:red">TBD</span>
-      - ED: <span style="color:red">TBD</span>
-      - JE: <span style="color:red">TBD</span>
-      - XM: <span style="color:red">TBD</span>
+    - PV: <span style="color:red">TBD</span>
+    - JIJ: <span style="color:red">TBD</span>
+    - ED: <span style="color:red">TBD</span>
+    - JE: <span style="color:red">TBD</span>
+    - XM: <span style="color:red">TBD</span>
+  - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+    - PV: <span style="color:red">TBD</span>
+    - JIJ: <span style="color:red">TBD</span>
+    - ED: <span style="color:red">TBD</span>
+    - JE: <span style="color:red">TBD</span>
+    - XM: <span style="color:red">TBD</span>
   - Please provide me with a one-page CV for every team member.
-      - PV: <span style="color:red">TBD</span>
-      - JIJ: <span style="color:red">TBD</span>
-      - ED: <span style="color:red">TBD</span>
-      - JE: <span style="color:green">done</span>
-      - XM: <span style="color:red">TBD</span>
+    - PV: <span style="color:red">TBD</span>
+    - JIJ: <span style="color:red">TBD</span>
+    - ED: <span style="color:red">TBD</span>
+    - JE: <span style="color:green">done</span>
+    - XM: <span style="color:red">TBD</span>
 - AIUB:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - <span style="color:green">October 2017</span>
+    - <span style="color:green">October 2017</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - <span style="color:green">Agreed</span>
+    - <span style="color:green">Agreed</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please comment on the preliminary work distribution.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
-      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
-      - SME: <span style="color:green">No</span>
-      - Large Space Integrator: <span style="color:green">No</span>
-      - EMITS Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Vendor Code: <span style="color:red">TBD</span>
-      - Country: <span style="color:green">Swiss Confederation</span>
-      - Price Type: <span style="color:green">Firm Fixed</span>
-      - Currency: <span style="color:green">CHF</span>
+    - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+    - SME: <span style="color:green">No</span>
+    - Large Space Integrator: <span style="color:green">No</span>
+    - EMITS Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Vendor Code: <span style="color:red">TBD</span>
+    - Country: <span style="color:green">Swiss Confederation</span>
+    - Price Type: <span style="color:green">Firm Fixed</span>
+    - Currency: <span style="color:green">CHF</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please contact your financial department and report to me your hourly rates.
-      - AA: <span style="color:red">TBD</span>
-      - DA: <span style="color:red">TBD</span>
-      - CD: <span style="color:red">TBD</span>
-  - Please specify the percentage of time each member is willing/available to spend in this project.
-      - AA: <span style="color:red">TBD</span>
-      - DA: <span style="color:red">TBD</span>
-      - CD: <span style="color:red">TBD</span>
+    - AA: <span style="color:red">TBD</span>
+    - DA: <span style="color:red">TBD</span>
+    - CD: <span style="color:red">TBD</span>
+  - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+    - AA: <span style="color:red">TBD</span>
+    - DA: <span style="color:red">TBD</span>
+    - CD: <span style="color:red">TBD</span>
   - Please provide me with a one-page CV for every team member.
-      - AA: <span style="color:red">TBD</span>
-      - DA: <span style="color:red">TBD</span>
-        - CD: <span style="color:red">TBD</span>
+    - AA: <span style="color:red">TBD</span>
+    - DA: <span style="color:red">TBD</span>
+    - CD: <span style="color:red">TBD</span>
 - ASU:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - processing of accelerometer measurements possible
+    - processing of accelerometer measurements possible
   - Please comment on the preliminary work distribution.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
-      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
-      - SME: <span style="color:green">No</span>
-      - Large Space Integrator: <span style="color:green">No</span>
-      - EMITS Bidder Code: <span style="color:green">done</span>
-      - esa-p Bidder Code: <span style="color:green">done</span>
-      - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: <span style="color:green">Czech Republic</span>
-      - Price Type: <span style="color:green">Firm Fixed</span>
-      - Currency: <span style="color:green">CZK</span>
+    - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+    - SME: <span style="color:green">No</span>
+    - Large Space Integrator: <span style="color:green">No</span>
+    - EMITS Bidder Code: <span style="color:green">done</span>
+    - esa-p Bidder Code: <span style="color:green">done</span>
+    - esa-p Vendor Code: <span style="color:green">done</span>
+    - Country: <span style="color:green">Czech Republic</span>
+    - Price Type: <span style="color:green">Firm Fixed</span>
+    - Currency: <span style="color:green">CZK</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please contact your financial department and report to me your hourly rates.
-      - AB: <span style="color:red">TBD</span>
-      - JK: <span style="color:red">TBD</span>
-  - Please specify the percentage of time each member is willing/available to spend in this project.
-      - AB: <span style="color:red">TBD</span>
-      - JK: <span style="color:red">TBD</span>
+    - AB: <span style="color:red">TBD</span>
+    - JK: <span style="color:red">TBD</span>
+  - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+    - AB: <span style="color:red">TBD</span>
+    - JK: <span style="color:red">TBD</span>
   - Please provide me with a one-page CV for every team member.
-      - AB: <span style="color:red">TBD</span>
-      - JK: <span style="color:red">TBD</span>
+    - AB: <span style="color:red">TBD</span>
+    - JK: <span style="color:red">TBD</span>
 - IfG:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - <span style="color:green">June 2017</span>
+    - <span style="color:green">June 2017</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - processing of accelerometer measurements possible
+    - processing of accelerometer measurements possible
   - Please comment on the preliminary work distribution.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - None
+    - None
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
-      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
-      - SME: <span style="color:green">No</span>
-      - Large Space Integrator: <span style="color:green">No</span>
-      - EMITS Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Vendor Code: <span style="color:green">done</span>
-      - Country: <span style="color:green">Austria</span>
-      - Price Type: <span style="color:green">Firm Fixed</span>
-      - Currency: <span style="color:green">EUR</span>
+    - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+    - SME: <span style="color:green">No</span>
+    - Large Space Integrator: <span style="color:green">No</span>
+    - EMITS Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Vendor Code: <span style="color:green">done</span>
+    - Country: <span style="color:green">Austria</span>
+    - Price Type: <span style="color:green">Firm Fixed</span>
+    - Currency: <span style="color:green">EUR</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - Agreed
+    - <span style="color:green">Agreed</span>
   - Please contact your financial department and report to me your hourly rates.
-      - TMG: 137,14€
-      - ME: 58,29€
-      - NZ: 65,14€
-  - Please specify the percentage of time each member is willing/available to spend in this project.
-      - TMG: 93h
-      - ME: 80h
-      - NZ: 80h
+    - TMG: <span style="color:green">done</span>
+    - ME: <span style="color:green">done</span>
+    - NZ: <span style="color:green">done</span>
+  - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+    - TMG: <span style="color:green">done</span>
+    - ME: <span style="color:green">done</span>
+    - NZ: <span style="color:green">done</span>
   - Please provide me with a one-page CV for every team member.
-      - TMG: <span style="color:red">TBD</span>
-      - ME: <span style="color:red">TBD</span>
-      - NZ: <span style="color:green">done</span>
+    - TMG: <span style="color:red">TBD</span>
+    - ME: <span style="color:red">TBD</span>
+    - NZ: <span style="color:green">done</span>
 - OSU:
   - Please indicate what would be the best date for you to start the activities on this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please comment on the preliminary work distribution.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please indicate in case you are required to pay a license fee or royalty as a result of this project.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
-      - Legal nature: <span style="color:green">Non-Profit Organisation</span>
-      - SME: <span style="color:green">No</span>
-      - Large Space Integrator: <span style="color:green">No</span>
-      - EMITS Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Bidder Code: <span style="color:red">TBD</span>
-      - esa-p Vendor Code: <span style="color:red">TBD</span>
-      - Country: <span style="color:green">USA</span>
-      - Price Type: <span style="color:green">Firm Fixed</span>
-      - Currency: <span style="color:green">USD</span>
+    - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+    - SME: <span style="color:green">No</span>
+    - Large Space Integrator: <span style="color:green">No</span>
+    - EMITS Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Bidder Code: <span style="color:red">TBD</span>
+    - esa-p Vendor Code: <span style="color:red">TBD</span>
+    - Country: <span style="color:green">USA</span>
+    - Price Type: <span style="color:green">Firm Fixed</span>
+    - Currency: <span style="color:green">USD</span>
   - Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please let me know if you see any problem with being payed for these activities through TU Delft.
-      - <span style="color:DarkOrange">No comment</span>
+    - <span style="color:DarkOrange">No comment</span>
   - Please contact your financial department and report to me your hourly rates.
-      - CKS: <span style="color:red">TBD</span>
-      - KS: <span style="color:red">TBD</span>
-      - JG: <span style="color:red">TBD</span>
-      - YZ: <span style="color:red">TBD</span>
-      - CZ: <span style="color:red">TBD</span>
-  - Please specify the percentage of time each member is willing/available to spend in this project.
-      - CKS: <span style="color:red">TBD</span>
-      - KS: <span style="color:red">TBD</span>
-      - JG: <span style="color:red">TBD</span>
-      - YZ: <span style="color:red">TBD</span>
-      - CZ: <span style="color:red">TBD</span>
+    - CKS: <span style="color:red">TBD</span>
+    - KS: <span style="color:red">TBD</span>
+    - JG: <span style="color:red">TBD</span>
+    - YZ: <span style="color:red">TBD</span>
+    - CZ: <span style="color:red">TBD</span>
+  - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+    - CKS: <span style="color:red">TBD</span>
+    - KS: <span style="color:red">TBD</span>
+    - JG: <span style="color:red">TBD</span>
+    - YZ: <span style="color:red">TBD</span>
+    - CZ: <span style="color:red">TBD</span>
   - Please provide me with a one-page CV for every team member.
-      - CKS: <span style="color:red">TBD</span>
-      - KS: <span style="color:red">TBD</span>
-      - JG: <span style="color:red">TBD</span>
-      - YZ: <span style="color:red">TBD</span>
-      - CZ: <span style="color:red">TBD</span>
+    - CKS: <span style="color:red">TBD</span>
+    - KS: <span style="color:red">TBD</span>
+    - JG: <span style="color:red">TBD</span>
+    - YZ: <span style="color:red">TBD</span>
+    - CZ: <span style="color:red">TBD</span>
 
 
 ## Tasks
