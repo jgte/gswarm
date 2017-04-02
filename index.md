@@ -89,7 +89,7 @@ Jump to:
   - JIJ: <span style="color:red">TBD</span>
   - ED: <span style="color:red">TBD</span>
   - JE: <span style="color:red">TBD</span>
-  - XM: <span style="color:green">done</span>
+  - XM: <span style="color:red">done</span>
 - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
   - PV: <span style="color:red">TBD</span>
   - JIJ: <span style="color:red">TBD</span>
