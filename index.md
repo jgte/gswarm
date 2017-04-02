@@ -48,103 +48,221 @@
 
 ## [Action items](action.md)
 
-Please revise the [Action items](action.md) assigned to your institution and notice the following:
+Note the following:
 - Items in <span style="color:red">red</span> indicate you need to provide the required information.
 - Items in <span style="color:DarkOrange">orange</span> indicate that a default answer is assumed; if you disagree with this default answer, please let me know.
 - Items in <span style="color:green">green</span> indicate you have already provided the answer; please check anyway if you agree with it (I need to handle numerous emails and mistakes are possible).
 
+Jump to:
+- [TU Delft](#tu-delft)
+- [AIUB](#aiub)
+- [ASU](#asu)
+- [IfG](#ifg)
+- [OSU](#osu)
 
-## Tasks
+### TU Delft
 
-### Task 1
-- Define the Swarm Gravity Field Processor
-- Deliverable: TN-01, describing the gravity field processing methodology, standard and background models
-- End by KO+4 months
-
-### Task 2
-- Define (and implement, if relevant) the GPS data pre-processing algorithms
-- TN-02.1: trade-off between Swarm accelerometer data and non-gravitational models
-  - TN-02.1.1: modelled non-gravitational accelerations (ASU implementation)
-  - TN-02.1.2: modelled non-gravitational accelerations (NRTDM)
-  - TN-02.1.3: measured non-gravitational accelerations (CalVal activities/Accelerometer Data Quality Working group/distributed by ESA)
-- TN-02.2: added value of scalar ll-SST data derived from Swarm GPS data
-  - TN-02.2.1.1: ll-SST data with covariance information for selected months (Bernese)
-  - TN-02.2.1.2: ll-SST data with covariance information for selected months (GHOST)
-  - TN-02.2.2.1: gravity fields with ll-SST data (Variational Equations Approach)
-  - TN-02.2.2.2: gravity fields with ll-SST data (Short-arc Approach)
-  - TN-02.2.2.3: gravity fields with ll-SST data (Energy Balance Approach)
-- Deliverable: TN-02, detailing the results of the TN-02.1 and TN-02.2 studies
-- End by KO+4 months
-
-### Task 3
-- Validate the produced models
-- Deliverable: TN-03, demonstrating that Swarm's gravity fields are in agreement with those produced from GRACE data (up to a certain spherical harmonic degree)
-- End by KO+6 months
-
-### Task 4
-- Process and deliver all Swarm gravity field models up to the end date of the Swarm ITT-funded activities (minus one month)
-- Deliverables:
-  - DL-01: monthly gravity field models
-    - DL-01.1.1: kinematic orbits and covariance information (Bernese)
-    - DL-01.1.2: kinematic orbits and covariance information (GROOPS)
-    - DL-01.1.3: kinematic orbits and covariance information (GHOST)
-    - DL-01.2.1: gravity fields and covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Variational Equations approach
-    - DL-01.2.2: gravity fields and covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Short-arc Approach
-    - DL-01.2.3: gravity fields and covariance information from kinematic orbits, using the Acceleration Approach
-    - DL-01.2.4: gravity fields and covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Energy Balance Approach
-    - DL-01.3: combination of all models (using the automated facilities of EGSIEM, only after Jan 2018)
-    - DL-01.4: data dissemination to ESA
-  - TN-04: product description
-  - DL-04: respond by email to questions from the wider community regarding the modes
-- End by KO+10 months
-
-### Task 5
-- Final presentation
-- Deliverables:
-  - DL-02: peer-review publication
-  - DL-03: present the main achievements during a Swarm data quality workshop
-- End by KO+12 months
-
-
-## Work Breakdown Structure (in refinement)
+- Please indicate what would be the best date for you to start the activities on this project.
+  - <span style="color:DarkOrange">No comment</span>
+- If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
+  - <span style="color:green">N/A</span>
+- Please comment on the preliminary work distribution.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate in case you are required to pay a license fee or royalty as a result of this project.
+  - <span style="color:DarkOrange">No comment</span>
+- Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+  - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+  - SME: <span style="color:green">No</span>
+  - Large Space Integrator: <span style="color:green">No</span>
+  - EMITS Bidder Code: <span style="color:green">done</span>
+  - esa-p Bidder Code: <span style="color:green">done</span>
+  - esa-p Vendor Code: <span style="color:green">done</span>
+  - Country: <span style="color:green">the Netherlands</span>
+  - Price Type: <span style="color:green">Firm Fixed</span>
+  - Currency: <span style="color:green">EUR</span>
+- Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
+  - <span style="color:green">Agreed</span>
+- Please let me know if you see any problem with being payed for these activities through TU Delft.
+  - <span style="color:green">Agreed</span>
+- Please contact your financial department and report to me your hourly rates.
+  - PV: <span style="color:red">TBD</span>
+  - JIJ: <span style="color:red">TBD</span>
+  - ED: <span style="color:red">TBD</span>
+  - JE: <span style="color:red">TBD</span>
+  - XM: <span style="color:green">done</span>
+- Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+  - PV: <span style="color:red">TBD</span>
+  - JIJ: <span style="color:red">TBD</span>
+  - ED: <span style="color:red">TBD</span>
+  - JE: <span style="color:red">TBD</span>
+  - XM: <span style="color:red">TBD</span>
+- Please provide me with a one-page CV for every team member.
+  - PV: <span style="color:red">TBD</span>
+  - JIJ: <span style="color:red">TBD</span>
+  - ED: <span style="color:red">TBD</span>
+  - JE: <span style="color:green">done</span>
+  - XM: <span style="color:red">TBD</span>
 
 ### AIUB
-- DL-01.1.1: produce kinematic orbits with covariance information using the Bernese software
-- DL-01.2.1: produce gravity fields with covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Variational Equations Approach
-- DL-01.3: perform combination of all models (using the automated facilities of EGSIEM, only after Jan 2018)
-- TN-02.2.1.1: produce ll-SST data with covariance information for selected months, using the Bernese software
-- TN-02.2.2.1: produce gravity fields with ll-SST data, using the Variational Equations Approach, considering (at least one of) TN-02.2.1.1 or TN-02.2.1.2
-- contribute to TN-01, TN-02, DL-02 and DL-03
 
-### ASU:
-- DL-01.2.3: produce gravity fields with covariance information from kinematic orbits, using the Acceleration Approach
-- TN-02.1.1: produce modelled non-gravitational accelerations with ASU implementation
-- TN-02.1: conduct and document the trade-off between Swarm accelerometer data and non-gravitational models, considering (all of) TN-02.1.1, TN-02.1.2 and TN-02.1.3
-- contribute to TN-01, TN-02, DL-02 and DL-03
+- Please indicate what would be the best date for you to start the activities on this project.
+  - <span style="color:green">October 2017</span>
+- If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
+  - <span style="color:green">Agreed</span>
+- Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
+  - <span style="color:DarkOrange">No comment</span>
+- Please comment on the preliminary work distribution.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate in case you are required to pay a license fee or royalty as a result of this project.
+  - <span style="color:DarkOrange">No comment</span>
+- Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+  - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+  - SME: <span style="color:green">No</span>
+  - Large Space Integrator: <span style="color:green">No</span>
+  - EMITS Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Vendor Code: <span style="color:red">TBD</span>
+  - Country: <span style="color:green">Swiss Confederation</span>
+  - Price Type: <span style="color:green">Firm Fixed</span>
+  - Currency: <span style="color:green">CHF</span>
+- Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
+  - <span style="color:DarkOrange">No comment</span>
+- Please let me know if you see any problem with being payed for these activities through TU Delft.
+  - <span style="color:DarkOrange">No comment</span>
+- Please contact your financial department and report to me your hourly rates.
+  - AA: <span style="color:red">TBD</span>
+  - DA: <span style="color:red">TBD</span>
+  - CD: <span style="color:red">TBD</span>
+- Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+  - AA: <span style="color:red">TBD</span>
+  - DA: <span style="color:red">TBD</span>
+  - CD: <span style="color:red">TBD</span>
+- Please provide me with a one-page CV for every team member.
+  - AA: <span style="color:red">TBD</span>
+  - DA: <span style="color:red">TBD</span>
+  - CD: <span style="color:red">TBD</span>
 
-### IfG:
-- DL-01.1.2: produce kinematic orbits with covariance information using the GROOPS software
-- DL-01.2.2: produce gravity fields with covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Short-arc Approach
-- TN-02.2.2.2: produce gravity fields with ll-SST data, using the Short-arc Approach, considering (at least one of) TN-02.2.1.1, TN-02.2.1.2
-- contribute to TN-01, TN-02, DL-02 and DL-03
+### ASU
 
-### OSU:
-- DL-01.2.4: produce gravity fields with covariance information from kinematic orbits (and possibly from ll-SST data as well), using the Energy Balance Approach
-- TN-02.2.2.3: produce gravity fields with ll-SST data, using the Energy Balance Approach, considering (at least one of) TN-02.2.1.1 or TN-02.2.1.2
-- contribute to TN-01, TN-02, DL-02 and DL-03
+- Please indicate what would be the best date for you to start the activities on this project.
+  - <span style="color:DarkOrange">No comment</span>
+- If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
+  - <span style="color:green">Agreed</span>
+- Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
+  - processing of accelerometer measurements possible
+- Please comment on the preliminary work distribution.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate in case you are required to pay a license fee or royalty as a result of this project.
+  - <span style="color:DarkOrange">No comment</span>
+- Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+  - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+  - SME: <span style="color:green">No</span>
+  - Large Space Integrator: <span style="color:green">No</span>
+  - EMITS Bidder Code: <span style="color:green">done</span>
+  - esa-p Bidder Code: <span style="color:green">done</span>
+  - esa-p Vendor Code: <span style="color:green">done</span>
+  - Country: <span style="color:green">Czech Republic</span>
+  - Price Type: <span style="color:green">Firm Fixed</span>
+  - Currency: <span style="color:green">CZK</span>
+- Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
+  - <span style="color:green">Agreed</span>
+- Please let me know if you see any problem with being payed for these activities through TU Delft.
+  - <span style="color:green">Agreed</span>
+- Please contact your financial department and report to me your hourly rates.
+  - AB: <span style="color:red">TBD</span>
+  - JK: <span style="color:red">TBD</span>
+- Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+  - AB: <span style="color:red">TBD</span>
+  - JK: <span style="color:red">TBD</span>
+- Please provide me with a one-page CV for every team member.
+  - AB: <span style="color:red">TBD</span>
+  - JK: <span style="color:red">TBD</span>
 
-### TU Delft:
-- project management
-- DL-01.1.3: produce kinematic orbits with covariance information using the GHOST software
-- DL-01.4: data dissemination to ESA
-- TN-01: compile final document
-- TN-02.1.2: produce modelled non-gravitational accelerations with NRTDM
-- TN-02.2.1.2: produce ll-SST data with covariance information for selected months, using the GHOST software
-- TN-02.2: conduct and document the study of the added value of ll-SST data derived from Swarm GPS data, considering (all of) TN-02.2.2.1, TN-02.2.2.2 and TN-02.2.2.3
-- TN-02: compile final document, considering (all of) TN-02.1 and TN-02.2
-- TN-03: compile final document
-- TN-04: compile final document
-- DL-04: coordinate email responses (e.g. by directing questions to the relevant partner, if needed)
+### IfG
+
+- Please indicate what would be the best date for you to start the activities on this project.
+  - <span style="color:green">June 2017</span>
+- If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
+  - <span style="color:green">Agreed</span>
+- Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
+  - processing of accelerometer measurements possible
+- Please comment on the preliminary work distribution.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate in case you are required to pay a license fee or royalty as a result of this project.
+  - <span style="color:green">done</span>
+- Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+  - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+  - SME: <span style="color:green">No</span>
+  - Large Space Integrator: <span style="color:green">No</span>
+  - EMITS Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Vendor Code: <span style="color:green">done</span>
+  - Country: <span style="color:green">Austria</span>
+  - Price Type: <span style="color:green">Firm Fixed</span>
+  - Currency: <span style="color:green">EUR</span>
+- Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
+  - <span style="color:green">Agreed</span>
+- Please let me know if you see any problem with being payed for these activities through TU Delft.
+  - <span style="color:green">Agreed</span>
+- Please contact your financial department and report to me your hourly rates.
+  - TMG: <span style="color:green">done</span>
+  - ME: <span style="color:green">done</span>
+  - NZ: <span style="color:green">done</span>
+- Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+  - TMG: <span style="color:green">done</span>
+  - ME: <span style="color:green">done</span>
+  - NZ: <span style="color:green">done</span>
+- Please provide me with a one-page CV for every team member.
+  - TMG: <span style="color:red">TBD</span>
+  - ME: <span style="color:red">TBD</span>
+  - NZ: <span style="color:green">done</span>
+
+### OSU
+
+- Please indicate what would be the best date for you to start the activities on this project.
+  - <span style="color:DarkOrange">No comment</span>
+- If you don't think to can follow general guideline regarding technical activities, please explain why and we will adjust the plan accordingly.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate if you are not able to include accelerometer measurements in the processing of your gravity field solutions.
+  - <span style="color:DarkOrange">No comment</span>
+- Please comment on the preliminary work distribution.
+  - <span style="color:DarkOrange">No comment</span>
+- Please indicate in case you are required to pay a license fee or royalty as a result of this project.
+  - <span style="color:DarkOrange">No comment</span>
+- Please register at the [ESA-star website](https://esastar-emr.sso.esa.int/) and report or correct the following information:
+  - Legal nature: <span style="color:green">Non-Profit Organisation</span>
+  - SME: <span style="color:green">No</span>
+  - Large Space Integrator: <span style="color:green">No</span>
+  - EMITS Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Bidder Code: <span style="color:red">TBD</span>
+  - esa-p Vendor Code: <span style="color:red">TBD</span>
+  - Country: <span style="color:green">USA</span>
+  - Price Type: <span style="color:green">Firm Fixed</span>
+  - Currency: <span style="color:green">USD</span>
+- Please let me know if you see any problems with Pieter Visser being the PI I act as the de facto manager.
+  - <span style="color:DarkOrange">No comment</span>
+- Please let me know if you see any problem with being payed for these activities through TU Delft.
+  - <span style="color:DarkOrange">No comment</span>
+- Please contact your financial department and report to me your hourly rates.
+  - CKS: <span style="color:red">TBD</span>
+  - KS: <span style="color:red">TBD</span>
+  - JG: <span style="color:red">TBD</span>
+  - YZ: <span style="color:red">TBD</span>
+  - CZ: <span style="color:red">TBD</span>
+- Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
+  - CKS: <span style="color:red">TBD</span>
+  - KS: <span style="color:red">TBD</span>
+  - JG: <span style="color:red">TBD</span>
+  - YZ: <span style="color:red">TBD</span>
+  - CZ: <span style="color:red">TBD</span>
+- Please provide me with a one-page CV for every team member.
+  - CKS: <span style="color:red">TBD</span>
+  - KS: <span style="color:red">TBD</span>
+  - JG: <span style="color:red">TBD</span>
+  - YZ: <span style="color:red">TBD</span>
+  - CZ: <span style="color:red">TBD</span>
 
 
 
