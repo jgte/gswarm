@@ -46,7 +46,7 @@
   - Josef Seabra
 
 
-## [Action items](action.md)
+## Action items
 
 Note the following:
 - Items in <span style="color:red">red</span> indicate you need to provide the required information.
@@ -101,7 +101,7 @@ Jump to:
   - JIJ: <span style="color:red">TBD</span>
   - ED: <span style="color:red">TBD</span>
   - JE: <span style="color:green">done</span>
-  - XM: <span style="color:red">TBD</span>
+  - XM: <span style="color:green">done</span>
 
 ### AIUB
 
