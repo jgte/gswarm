@@ -76,8 +76,6 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - EMITS Bidder Code: <span style="color:green">done</span>
-  - esa-p Bidder Code: <span style="color:green">done</span>
   - esa-p Vendor Code: <span style="color:green">done</span>
   - Country: <span style="color:green">the Netherlands</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
@@ -121,8 +119,6 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - EMITS Bidder Code: <span style="color:red">TBD</span>
-  - esa-p Bidder Code: <span style="color:red">TBD</span>
   - esa-p Vendor Code: <span style="color:red">TBD</span>
   - Country: <span style="color:green">Swiss Confederation</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
@@ -160,8 +156,6 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - EMITS Bidder Code: <span style="color:green">done</span>
-  - esa-p Bidder Code: <span style="color:green">done</span>
   - esa-p Vendor Code: <span style="color:green">done</span>
   - Country: <span style="color:green">Czech Republic</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
@@ -196,8 +190,6 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - EMITS Bidder Code: <span style="color:red">TBD</span>
-  - esa-p Bidder Code: <span style="color:red">TBD</span>
   - esa-p Vendor Code: <span style="color:green">done</span>
   - Country: <span style="color:green">Austria</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
@@ -235,8 +227,6 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - EMITS Bidder Code: <span style="color:red">TBD</span>
-  - esa-p Bidder Code: <span style="color:red">TBD</span>
   - esa-p Vendor Code: <span style="color:red">TBD</span>
   - Country: <span style="color:green">USA</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
