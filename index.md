@@ -119,7 +119,7 @@ Jump to:
   - Legal nature: <span style="color:green">Non-Profit Organisation</span>
   - SME: <span style="color:green">No</span>
   - Large Space Integrator: <span style="color:green">No</span>
-  - esa-p Vendor Code: <span style="color:red">TBD</span>
+  - esa-p Vendor Code: <span style="color:green">done</span>
   - Country: <span style="color:green">Swiss Confederation</span>
   - Price Type: <span style="color:green">Firm Fixed</span>
   - Currency: <span style="color:green">CHF</span>
@@ -128,17 +128,11 @@ Jump to:
 - Please let me know if you see any problem with being payed for these activities through TU Delft.
   - <span style="color:DarkOrange">No comment</span>
 - Please contact your financial department and report to me your hourly rates.
-  - AA: <span style="color:red">TBD</span>
-  - DA: <span style="color:red">TBD</span>
-  - CD: <span style="color:red">TBD</span>
+  - AJ: <span style="color:green">done</span>
 - Please specify the percentage of time or the total man-hours each member is willing/available to spend in this project.
-  - AA: <span style="color:red">TBD</span>
-  - DA: <span style="color:red">TBD</span>
-  - CD: <span style="color:red">TBD</span>
+  - AJ: <span style="color:DarkOrange">no preference</span>
 - Please provide me with a one-page CV for every team member.
-  - AA: <span style="color:red">TBD</span>
-  - DA: <span style="color:red">TBD</span>
-  - CD: <span style="color:red">TBD</span>
+  - AJ: <span style="color:red">TBD</span>
 
 ### ASU
 
