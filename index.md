@@ -1,4 +1,4 @@
-# Swarm as a gravity field mission
+# Multi-approach gravity eld models from Swarm GPS data
 
 ## People
 
