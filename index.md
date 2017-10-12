@@ -3,26 +3,26 @@
 ## People
 
 - [TU Delft](http://www.lr.tudelft.nl/en/organisation/departments/space-engineering/astrodynamics-and-space-missions/people/):
-  - [Pieter Visser](P.N.A.M.Visser@tudelft.nl)
-  - [Jose van den IJssel](J.A.A.vandenIJssel@tudelft.nl)
-  - [Eelco Doornbos](E.N.Doornbos@tudelft.nl)
-  - [João Encarnação](J.G.deTeixeiradaEncarnacao@tudelft.nl)
-  - [Xinyuan Mao](x.mao@tudelft.nl)
+  - [Pieter Visser](https://www.tudelft.nl/en/staff/p.n.a.m.visser/)
+  - [Jose van den IJssel](https://www.tudelft.nl/en/staff/j.a.a.vandenijssel/)
+  - [Eelco Doornbos](https://www.tudelft.nl/en/staff/e.n.doornbos/)
+  - [João Encarnação](https://directory.utexas.edu/index.php?q=encarnacao&scope=all&i=2)
+  - [Xinyuan Mao](https://www.tudelft.nl/en/staff/x.mao/)
 - [AIUB](http://www.aiub.unibe.ch/about_us/team/index_eng.html):
-  - [Adrian Jaggi](adrian.jaeggi@aiub.unibe.ch)
-  - [Daniel Arnold](daniel.arnold@aiub.unibe.ch)
+  - [Adrian Jaggi](http://www.aiub.unibe.ch/ueber_uns/personen/prof_dr_jaeggi_adrian/index_ger.html)
+  - [Daniel Arnold](http://www.aiub.unibe.ch/ueber_uns/personen/dr_arnold_daniel/index_ger.html)
 - [ASU](http://galaxy.asu.cas.cz/planets/index.php?page=people):
-  - [Aleš Bezdek](ales.bezdek@asu.cas.cz)
-  - [Jaroslav Klokočník](jaroslav.klokocnik@asu.cas.cz)
+  - [Aleš Bezdek](http://www1.asu.cas.cz/person/bezdek.html)
+  - [Jaroslav Klokočník](http://www1.asu.cas.cz/person/klokocnik.html)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
-  - [Torsten Mayer-Gürr](mayer-guerr@tugraz.at)
-  - [Norbert Zehentner](zehentner@tugraz.at)
-  - [Matthias Ellmer](ellmer@tugraz.at)
+  - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
+  - [Norbert Zehentner](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F57785AFEDC61EF9)
+  - [Matthias Ellmer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=4FA7CD7854879AF5)
 - [OSU](https://earthsciences.osu.edu/directory):
-  - [C.K. Shum](ckshum@osu.edu)
-  - [Junyi Guo](guo.81@osu.edu)
-  - [Yu Zhang](zhang.6345@osu.edu)
-  - [Peter Luk](luk.8@osu.edu)
+  - [C.K. Shum](https://earthsciences.osu.edu/people/shum.3)
+  - [Junyi Guo](https://earthsciences.osu.edu/people/guo.81)
+  - [Peter Luk](https://earthsciences.osu.edu/people/luk.8)
+  - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
