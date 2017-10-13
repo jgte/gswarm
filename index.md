@@ -34,7 +34,7 @@
 
 ## Important documents
 
-- [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT.html)
+- [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT_html.html)
 - [Swarm DISC Invitations To Tender](http://www.space.dtu.dk/english/research/projects/project-descriptions/swarm/swarm_disc_itts)
 - [Cover Letter](http://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-CL-DTU-GS-111_Cover_letter_ITT_1_1_rev2.ashx?la=da)
 - [Statement of Work](http://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-SW-DTU-GS-111_ITT1-1_SoW.ashx?la=da)
