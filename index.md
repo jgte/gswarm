@@ -34,7 +34,7 @@
 ## Project documents
 
 - [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT_html.html)
-- [TN-01](http://jgte.github.io/gswarm/TN-01/TN-01_html.html)
+- [TN-01](http://jgte.github.io/gswarm/TN-01/TN-01_html.html) ([PDF](http://jgte.github.io/gswarm/TN-01/TN-01.pdf))
 
 
 ## Important documents
