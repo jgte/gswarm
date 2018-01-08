@@ -15,7 +15,7 @@
   - [Ulrich Meyer](http://www.aiub.unibe.ch/ueber_uns/personen/dr_meyer_ulrich/index_ger.html)
 - [ASU](http://galaxy.asu.cas.cz/planets/index.php?page=people):
   - [Aleš Bezdek](http://www1.asu.cas.cz/person/bezdek.html)
-  - [Josef Sebera](http://www.researcherid.com/rid/F-8954-2014)
+  - [Josef Sebera](https://scholar.google.cz/citations?user=uCceqE8AAAAJ)
   - [Jaroslav Klokočník](http://www1.asu.cas.cz/person/klokocnik.html)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
   - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
