@@ -41,7 +41,12 @@
 - [TN-01](http://jgte.github.io/gswarm/TN-01/TN-01_html.html) ([PDF](http://jgte.github.io/gswarm/TN-01/TN-01.pdf))
 
 
-## Important documents
+## Important references
+
+- [SINEX format](http://jgte.github.io/gswarm/SINEX/)
+- [EGSIEM standards](http://jgte.github.io/gswarm/References/D2.1_Processing Standards and Models_02.03.2015.pdf)
+
+## ITT documents
 
 - [Swarm DISC Invitations To Tender](http://www.space.dtu.dk/english/research/projects/project-descriptions/swarm/swarm_disc_itts)
 - [Cover Letter](http://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-CL-DTU-GS-111_Cover_letter_ITT_1_1_rev2.ashx?la=da)
