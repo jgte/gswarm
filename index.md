@@ -44,7 +44,7 @@
 ## Important references
 
 - [SINEX format](http://jgte.github.io/gswarm/SINEX/)
-- [EGSIEM standards](http://jgte.github.io/gswarm/References/D2.1_Processing Standards and Models_02.03.2015.pdf)
+- [EGSIEM standards](http://jgte.github.io/gswarm/References/D2.1_Processing Standards and Models_02.03.2015.pdf) (particularly relevant are pages 7, 8 and 21)
 
 ## ITT documents
 
