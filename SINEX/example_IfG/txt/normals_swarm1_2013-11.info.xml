@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groops type="normalEquation" version="20170920">
+	<observationCount>111390</observationCount>
+	<parameterCount>437</parameterCount>
+	<rightHandSideCount>1</rightHandSideCount>
+	<lPl>1.11757174401916e+05</lPl>
+	<blockCount>1</blockCount>
+	<blockSize>437</blockSize>
+	<extension>txt</extension>
+</groops>
