@@ -4,6 +4,11 @@
 - [Complete description (IERS)](https://www.iers.org/IERS/EN/Organization/AnalysisCoordinator/SinexFormat/sinex.html)
 - [SINEX-related utilites at Mathworks](https://www.mathworks.com/matlabcentral/fileexchange?term=sinex)
 
+## Requirements for the contents
+
+- Only gravity field parameters (no initial state vectors, drag coefficients, etc);
+- No degree 1 coefficients;
+- Normal equations must be normalized by the a priori sigma squared (which each institute must estimate themselves).
 
 ## Example (IfG)
 
