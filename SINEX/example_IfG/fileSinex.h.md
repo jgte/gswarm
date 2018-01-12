@@ -2,7 +2,8 @@
 
 All rights reserved. This code or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the copyright owner.
 
-```C++
+{% highlight c++ %}
+
 /***********************************************/
 /**
 * @file fileSinex.h
@@ -286,4 +287,5 @@ std::shared_ptr<T> Sinex::getBlock(const std::string &label) const
 /***********************************************/
 
 #endif /* __GROOPS__ */
-```
+
+{% endhighlight %}

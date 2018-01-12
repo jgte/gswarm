@@ -2,7 +2,8 @@
 
 All rights reserved. This code or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the copyright owner.
 
-```C++
+{% highlight c++ %}
+
 /***********************************************/
 /**
 * @file normalsSphericalHarmonics2Sinex.cpp
@@ -183,4 +184,5 @@ void NormalsSphericalHarmonics2Sinex::addVector(Sinex::SinexSolutionVectorPtr ve
 }
 
 /***********************************************/
-```
+
+{% endhighlight %}
