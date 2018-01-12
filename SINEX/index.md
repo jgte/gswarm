@@ -17,3 +17,7 @@
   - [RHS vector](http://jgte.github.io/gswarm/SINEX/example_IfG/txt/normals_swarm1_2013-11.rightHandSide.txt) (12Kb)
 - [SINEX](http://jgte.github.io/gswarm/SINEX/example_IfG/sinex/normals_swarm1_2013-11.snx.txt) (2.5Mb) **Important:** the extension ".txt" has been appended to this file so that it shows on browser
 - [tarball with all files](http://jgte.github.io/gswarm/SINEX/example_IfG/examples.tar.gz) (2Mb)
+- Code:
+  - [fileSinex.h](http://jgte.github.io/gswarm/SINEX/example_IfG/fileSinex.h)
+  - [fileSinex.cpp](http://jgte.github.io/gswarm/SINEX/example_IfG/fileSinex.cpp)
+  - [normalsSphericalHarmonics2Sinex.cpp](http://jgte.github.io/gswarm/SINEX/example_IfG/normalsSphericalHarmonics2Sinex.cpp)
