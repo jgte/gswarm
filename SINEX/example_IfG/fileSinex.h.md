@@ -1,4 +1,4 @@
-&copy; 2017 Institute of Geodesy of the Techincal University of Graz
+&copy; 2017 Institute of Geodesy of the Technical University of Graz
 
 All rights reserved. This code or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the copyright owner.
 
