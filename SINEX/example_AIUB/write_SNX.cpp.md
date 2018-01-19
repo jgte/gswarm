@@ -1,3 +1,9 @@
+&copy; 2017 Astronomical Institute of the University of Bern
+
+All rights reserved. This code or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the copyright owner.
+
+{% highlight c++ %}
+
 SUBROUTINE sinstore(neq,regMat,aNor_free,bNor_free)
 
 ! Open the output file
@@ -16,8 +22,8 @@ SUBROUTINE sinstore(neq,regMat,aNor_free,bNor_free)
 ! Reference Block
 ! ---------------
 
-There some external text-file is read and written to the SNX-file.
-I will provide this file separately.
+!!!!!! There some external text-file is read and written to the SNX-file.
+!!!!!! I will provide this file separately.
 
 ! Solution/Statistics Block
 ! -------------------------
@@ -132,4 +138,7 @@ I will provide this file separately.
 ! -----------
   WRITE(lfnres,'(A)') '%ENDSNX'
   CLOSE(lfnres)
-END SUBROUTINE sinstore 
+END SUBROUTINE sinstore
+
+
+{% endhighlight %}

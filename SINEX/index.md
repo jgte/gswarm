@@ -25,4 +25,4 @@
 ## Example (AIUB)
 
 - Code:
-  - [write_SNX.txt](http://jgte.github.io/gswarm/SINEX/example_AIUB/write_SNX.txt)
+  - [write_SNX.txt](http://jgte.github.io/gswarm/SINEX/example_AIUB/write_SNX.cpp)
