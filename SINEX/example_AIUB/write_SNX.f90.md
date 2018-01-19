@@ -2,7 +2,7 @@
 
 All rights reserved. This code or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the copyright owner.
 
-{% highlight c++ %}
+{% highlight fortran %}
 
 SUBROUTINE sinstore(neq,regMat,aNor_free,bNor_free)
 
