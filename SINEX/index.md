@@ -21,3 +21,8 @@
   - [fileSinex.h](http://jgte.github.io/gswarm/SINEX/example_IfG/fileSinex.h)
   - [fileSinex.cpp](http://jgte.github.io/gswarm/SINEX/example_IfG/fileSinex.cpp)
   - [normalsSphericalHarmonics2Sinex.cpp](http://jgte.github.io/gswarm/SINEX/example_IfG/normalsSphericalHarmonics2Sinex.cpp)
+
+## Example (AIUB)
+
+- Code:
+  - [write_SNX.txt](http://jgte.github.io/gswarm/SINEX/example_AIUB/write_SNX.txt)
