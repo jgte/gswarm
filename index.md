@@ -1,4 +1,4 @@
-# Multi-approach gravity eld models from Swarm GPS data
+# Multi-approach gravity field models from Swarm GPS data
 
 ## People
 
