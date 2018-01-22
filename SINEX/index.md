@@ -24,32 +24,31 @@
 
 ## Example (AIUB)
 
+- Code:
+  - [write_SNX.f90](http://jgte.github.io/gswarm/SINEX/example_AIUB/write_SNX.f90)
 - Example header:
   - only the `COMMENT` block is mandatory for the EGSIEM-SINEX files, since the information of GM (`earth_gravity_constant`), R (`radius`), maximum degree (`max_degree`) and tide system (`tide_system`) is needed to correctly read and process the files.
 
+```
++FILE/REFERENCE
+*INFO_TYPE_________ INFO________________________________________________________
+ DESCRIPTION        GRACE monthly gravity field
+ CONTACT            ulrich.meyer@aiub.unibe.ch
+ SOFTWARE           Bernese GNSS Software Version EGSIEM
+ INPUT              monthly NEQs: MErr
+-FILE/REFERENCE
 
-    +FILE/REFERENCE
-    *INFO_TYPE_________ INFO________________________________________________________
-     DESCRIPTION        GRACE monthly gravity field
-     CONTACT            ulrich.meyer@aiub.unibe.ch
-     SOFTWARE           Bernese GNSS Software Version EGSIEM
-     INPUT              monthly NEQs: MErr
-    -FILE/REFERENCE
++FILE/COMMENT
+ modelname              EGSIEM_AIUB_RL01
+ earth_gravity_constant 3.9860044150e+14
+ radius                 6.3781363000e+06
+ max_degree             90
+ norm                   fully_normalized
+ tide_system            tide_free
+-FILE/COMMENT
 
-    +FILE/COMMENT
-     modelname              EGSIEM_AIUB_RL01
-     earth_gravity_constant 3.9860044150e+14
-     radius                 6.3781363000e+06
-     max_degree             90
-     norm                   fully_normalized
-     tide_system            tide_free
-    -FILE/COMMENT
-
-    +INPUT/ACKNOWLEDGMENTS
-    *AGY DESCRIPTION________________________________________________________________
-     EGS EGSIEM-contribution from Astronomical Institute of the University of Berne
-    -INPUT/ACKNOWLEDGMENTS
-
-
-- Code:
-  - [write_SNX.f90](http://jgte.github.io/gswarm/SINEX/example_AIUB/write_SNX.f90)
++INPUT/ACKNOWLEDGMENTS
+*AGY DESCRIPTION________________________________________________________________
+ EGS EGSIEM-contribution from Astronomical Institute of the University of Berne
+-INPUT/ACKNOWLEDGMENTS
+```
