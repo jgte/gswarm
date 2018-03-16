@@ -58,7 +58,20 @@
 - .mat text (MATLAB)
   - [Normal Matrix](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/nm_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_norm_mtx.mat) (1.4Mb)
   - [RHS vector](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/sc_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_sp.mat) (8Kb)
-- [SINEX](http://jgte.github.io/gswarm/SINEXexample_ASU/komb_SW_NK03_NormMtx_nmax20/sinex/GSWARM_NE_SABC_ASU_2014-08_01_IFG.snx.txt) (2.5Mb) **Important:** the extension ".txt" has been appended to this file so that it shows on browser
+- [SINEX](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/sinex/GSWARM_NE_SABC_ASU_2014-08_01_IFG.snx.txt) (2.5Mb) **Important:** the extension ".txt" has been appended to this file so that it shows on browser
 - [zip archive with all files](http://jgte.github.io/gswarm/SINEX/example_ASU/example_export_to_sinex_matlab.zip) (2.4Mb)
 - Code:
-  - [sinex_asu_01c.m](http://jgte.github.io/gswarm/SINEX/example_ASU/sinex_asu_01c.m) ** Important:** requires additional routines found in the "private" directory in the zip archive
+  - [sinex_asu_01c.m.](http://jgte.github.io/gswarm/SINEX/example_ASU/sinex_asu_01c.m.txt) ** Important:** requires additional routines found in the "private" directory in the zip archive and the extension ".txt" has been appended to this file so that it shows on browser
+- Readme:
+
+```
+Sample code to export the normal equation matrix related to gravity field solutions
+in the SINEX for the DISC consortium according to guidelines provided by https://jgte.github.io/gswarm/SINEX/.
+
+After running sinex_asu_01c.m, one should obtain the file 'GSWARM_NE_SABC_ASU_2014-08_01_IFG.snx'.
+
+The code is free to use, in its entirety or in parts.
+
+Ales Bezdek, bezdek@asu.cas.cz, 15. 3. 2018
+```
+
