@@ -52,3 +52,13 @@
  EGS EGSIEM-contribution from Astronomical Institute of the University of Berne
 -INPUT/ACKNOWLEDGMENTS
 ```
+
+## Example (ASU)
+
+- .mat text (MATLAB)
+  - [Normal Matrix](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/nm_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_norm_mtx.mat) (1.4Mb)
+  - [RHS vector](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/sc_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_sp.mat) (8Kb)
+- [SINEX](http://jgte.github.io/gswarm/SINEXexample_ASU/komb_SW_NK03_NormMtx_nmax20/sinex/GSWARM_NE_SABC_ASU_2014-08_01_IFG.snx.txt) (2.5Mb) **Important:** the extension ".txt" has been appended to this file so that it shows on browser
+- [zip archive with all files](http://jgte.github.io/gswarm/SINEX/example_ASU/example_export_to_sinex_matlab.zip) (2.4Mb)
+- Code:
+  - [sinex_asu_01c.m](http://jgte.github.io/gswarm/SINEX/example_ASU/sinex_asu_01c.m) ** Important:** requires additional routines found in the "private" directory in the zip archive
