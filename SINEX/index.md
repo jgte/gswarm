@@ -55,7 +55,7 @@
 
 ## Example (ASU)
 
-- .mat text (MATLAB)
+- .mat files (MATLAB)
   - [Normal Matrix](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/nm_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_norm_mtx.mat) (1.4Mb)
   - [RHS vector](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/sc_mat/komb_multi_01_SW_2014_0801_NormMtx_nmax020_sp.mat) (8Kb)
 - [SINEX](http://jgte.github.io/gswarm/SINEX/example_ASU/komb_SW_NK03_NormMtx_nmax20/sinex/GSWARM_NE_SABC_ASU_2014-08_01_IFG.snx.txt) (2.5Mb) **Important:** the extension ".txt" has been appended to this file so that it shows on browser
