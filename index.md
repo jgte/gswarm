@@ -27,6 +27,10 @@
   - [Peter Luk](https://earthsciences.osu.edu/people/luk.8)
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
 
+### G-Swarm researchers not involved in the answer to the Swarm ITT
+
+- AIUB
+  - Christoph Dahle
 
 ### Resources for project publications
 
@@ -67,10 +71,7 @@ The list is in alphabetical order, please adapt as needed.
 
 Please include the acknowledgement above in every contribution that is published or presented until the end of the project (September 2018)
 
-### G-Swarm researchers not involved in the answer to the Swarm ITT
 
-- AIUB
-  - Christoph Dahle
 
 
 ## Project documents
