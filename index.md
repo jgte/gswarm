@@ -65,7 +65,7 @@ The list is in alphabetical order, please adapt as needed.
 
 `Funded by the European Space Agency, contract SD-ITT-1.1, part of contract 4000109587/13/I-NB`
 
-Please include the acknowledgement below in every contribution that is published or presented until the end of the project (September 2018)
+Please include the acknowledgement above in every contribution that is published or presented until the end of the project (September 2018)
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
