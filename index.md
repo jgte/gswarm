@@ -32,6 +32,7 @@
 
 #### List of authors 
 
+````
 D. Arnold<sup>&lowast;</sup>,
 A. Bezdek<sup>&dagger;</sup>,
 E. Doornbos<sup>&Dagger;</sup>,
@@ -58,6 +59,7 @@ Y. Zhang <sup>&para;</sup>
 <sup>&sect;</sup>Institute of Geodesy, Graz University of Technology, Graz, Austria;
 <sup>&#8214;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas;
 <sup>&para;</sup>School of Earth Sciences of the Ohio State University, Columbus, Ohio
+````
 
 The list is in alphabetical order, please adapt as needed.
 
