@@ -28,7 +28,9 @@
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
 
 
-### List of authors (in alphabetical order, please adapt as needed)
+### Resources for project publications
+
+#### List of authors 
 
 D. Arnold<sup>&lowast;</sup>,
 A. Bezdek<sup>&dagger;</sup>,
@@ -56,6 +58,14 @@ Y. Zhang <sup>&para;</sup>
 <sup>&sect;</sup>Institute of Geodesy, Graz University of Technology, Graz, Austria;
 <sup>&#8214;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas;
 <sup>&para;</sup>School of Earth Sciences of the Ohio State University, Columbus, Ohio
+
+The list is in alphabetical order, please adapt as needed.
+
+#### Acknowledgement 
+
+`Funded by the European Space Agency, contract SD-ITT-1.1, part of contract 4000109587/13/I-NB`
+
+Please include the acknowledgement below in every contribution that is published or presented until the end of the project (September 2018)
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
