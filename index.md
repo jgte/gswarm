@@ -30,32 +30,32 @@
 
 ### List of authors (in alphabetical order, please adapt as needed)
 
-D. Arnold <sup>&#42;</sup>
-A. Bezdek <sup>&#8224;</sup>
-E. Doornbos <sup>&#8225;</sup>
-M. Ellmer  <sup>&#167;</sup>
-J. Encarnação <sup>&#124;</sup>,<sup>&#8225;</sup>
-J. Guo <sup>&para;</sup>
-J. van den IJssel<sup>&#8225;</sup>
-E. Iorfida<sup>&#8225;</sup>
-A. Jäggi<sup>&#42;</sup>
-J. Klokočník<sup>&#8224;</sup>
-P. Luk <sup>&para;</sup>
-X. Mao<sup>&#8225;</sup>
-T. Mayer-Gürr<sup>&#167;</sup>
-U. Meyer<sup>&#42;</sup>
-J. Sebera<sup>&#8224;</sup>
-C.K. Shum <sup>&para;</sup>
-P. Visser<sup>&#8225;</sup>
-N. Zehentner<sup>&#167;</sup>
+D. Arnold<sup>&#42;</sup>,
+A. Bezdek<sup>&#8224;</sup>,
+E. Doornbos<sup>&#8225;</sup>,
+M. Ellmer<sup>&#167;</sup>,
+J. Encarnação<sup>&#124;&#8225;</sup>,
+J. Guo<sup>&para;</sup>,
+J. van den IJssel<sup>&#8225;</sup>,
+E. Iorfida<sup>&#8225;</sup>,
+A. Jäggi<sup>&#42;</sup>,
+J. Klokočník<sup>&#8224;</sup>,
+P. Luk <sup>&para;</sup>,
+X. Mao<sup>&#8225;</sup>,
+T. Mayer-Gürr<sup>&#167;</sup>,
+U. Meyer<sup>&#42;</sup>,
+J. Sebera<sup>&#8224;</sup>,
+C.K. Shum <sup>&para;</sup>,
+P. Visser<sup>&#8225;</sup>,
+N. Zehentner<sup>&#167;</sup>,
 Y. Zhang <sup>&para;</sup>
            
 <sup>&#42;</sup>Astronomical Institute of the University of Bern, Bern, Schwitzerland;
 <sup>&#8224;</sup>Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic;
 <sup>&#8225;</sup>Faculty of Aerospace Engineering of the Delft University of Technology, Delft, The Netherlands;
 <sup>&#167;</sup>Institute of Geodesy, Graz University of Technology, Graz, Austria;
-<sup>&#124;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas
-<sup>&para;</sup>School of Earth Sciences of the Ohio State University, Columbus, Ohio;
+<sup>&#124;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas;
+<sup>&para;</sup>School of Earth Sciences of the Ohio State University, Columbus, Ohio
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
