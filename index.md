@@ -34,7 +34,7 @@ D. Arnold<sup>&lowast;</sup>,
 A. Bezdek<sup>&dagger;</sup>,
 E. Doornbos<sup>&Dagger;</sup>,
 M. Ellmer<sup>&sect;</sup>,
-J. Encarnação<sup>&#8741;&Dagger;</sup>,
+J. Encarnação<sup>&vert;&vert;,&Dagger;</sup>,
 J. Guo<sup>&para;</sup>,
 J. van den IJssel<sup>&Dagger;</sup>,
 E. Iorfida<sup>&Dagger;</sup>,
@@ -54,7 +54,7 @@ Y. Zhang <sup>&para;</sup>
 <sup>&dagger;</sup>Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic;
 <sup>&Dagger;</sup>Faculty of Aerospace Engineering of the Delft University of Technology, Delft, The Netherlands;
 <sup>&sect;</sup>Institute of Geodesy, Graz University of Technology, Graz, Austria;
-<sup>&#8741;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas;
+<sup>&vert;&vert;</sup>Center for Space Research, University of Texas at Austin, Austin, Texas;
 <sup>&para;</sup>School of Earth Sciences of the Ohio State University, Columbus, Ohio
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
