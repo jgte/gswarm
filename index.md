@@ -123,7 +123,7 @@ $^\mathparagraph$Ohio State University, U.S.A.
 
 \end{document}
 
-{% endhighlight %}
+```
 
 The LaTeX code above produced [this PDF file](http://jgte.github.io/gswarm/authors.pdf).
 
