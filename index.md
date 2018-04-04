@@ -74,7 +74,7 @@ If needed, a shorter form of the affiliations is:
 
 The corresponding MWE LaTeX code is:
 
-{% latex %}
+```TeX
 \documentclass[11pt,a4paper,oneside]{article}
 
 \begin{document}
