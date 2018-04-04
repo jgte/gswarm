@@ -32,15 +32,13 @@
 - AIUB
   - Christoph Dahle
 
-
-
 ## Project documents
 
 - [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT_html.html)
 - [Project page at ResearchGate](https://www.researchgate.net/project/Multi-approach-gravity-field-models-from-Swarm-GPS-data)
 - [TN-01](http://jgte.github.io/gswarm/TN-01/TN-01_html.html) ([PDF](http://jgte.github.io/gswarm/TN-01/TN-01.pdf))
 - [MTR presentation](http://jgte.github.io/gswarm/SW_HO_TUD_GS_0001_WP200-complete.pptx)
-- [Resources for project publications](http://jgte.github.io/gswarm/resources.md)
+- [Resources for project publications](http://jgte.github.io/gswarm/resources)
 
 ## Important references
 
