@@ -24,8 +24,8 @@
 - [OSU](https://earthsciences.osu.edu/directory):
   - [C.K. Shum](https://earthsciences.osu.edu/people/shum.3)
   - [Junyi Guo](https://earthsciences.osu.edu/people/guo.81)
-  - [Peter Luk](https://earthsciences.osu.edu/people/luk.8)
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
+  - C. Zhang
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 

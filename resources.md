@@ -12,7 +12,6 @@ J. van den IJssel<sup>&Dagger;</sup>,
 E. Iorfida<sup>&Dagger;</sup>,
 A. Jäggi<sup>&lowast;</sup>,
 J. Klokočník<sup>&dagger;</sup>,
-P. Luk <sup>&para;</sup>,
 X. Mao<sup>&Dagger;</sup>,
 T. Mayer-Gürr<sup>&sect;</sup>,
 U. Meyer<sup>&lowast;</sup>,
@@ -20,6 +19,7 @@ J. Sebera<sup>&dagger;</sup>,
 C.K. Shum <sup>&para;</sup>,
 P. Visser<sup>&Dagger;</sup>,
 N. Zehentner<sup>&sect;</sup>,
+C. Zhang<sup>&para;</sup>
 Y. Zhang<sup>&para;</sup>
            
 <sup>&lowast;</sup>Astronomical Institute of the University of Bern, Bern, Schwitzerland;
@@ -55,7 +55,6 @@ J. van den IJssel$^\ddagger$, %
 E. Iorfida$^\ddagger$, %
 A. J\"{a}ggi$^*$, %
 J. Kloko\v{c}n\'{i}k$^\dagger$, %
-P. Luk$^\mathparagraph$, %
 X. Mao$^\ddagger$, %
 T. Mayer-G\"{u}rr$^\mathsection$, %
 U. Meyer$^*$, %
@@ -63,6 +62,7 @@ J. Sebera$^\dagger$, %
 C.K. Shum$^\mathparagraph$, %
 P. Visser$^\ddagger$, %
 N. Zehentner$^\mathsection$ %
+C. Zhang$^\mathparagraph$ %
 Y. Zhang$^\mathparagraph$
 
 ~\\
