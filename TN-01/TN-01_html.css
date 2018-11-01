@@ -20,6 +20,7 @@
 .mdputr7t-x-x-103{font-size:84%;}
 .mdputr7t-x-x-75{font-size:61%;}
 .mdputri7m-x-x-103{font-size:84%;}
+.mdputri7m-x-x-75{font-size:61%;}
 .mdputr7y-x-x-75{font-size:61%;}
 .mdputr8t-x-x-94{font-size:76%;}
 .mdputri8t-x-x-103{font-size:84%;}
@@ -176,6 +177,7 @@ div.gather-star {text-align:center;}
 span.sout {text-decoration: line-through }
 span.xout {text-decoration: line-through }
 span.uwave {text-decoration:underline }
+.rotatebox{display: inline-block;}
 .supertabular {text-align:center}
 dt.enumerate-enumitem{float:left; clear:left; margin-left:1em; margin-right:1em;}
 dt.printshorthands{float:left; clear:left; margin-right:1em;}
