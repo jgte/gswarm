@@ -19,13 +19,13 @@
   - [Jaroslav Klokočník](http://www1.asu.cas.cz/person/klokocnik.html)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
   - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
-  - [Norbert Zehentner](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F57785AFEDC61EF9)
+  - [Sandro Krauss](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F57785AFEDC61EF9)
   - [Matthias Ellmer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=4FA7CD7854879AF5)
 - [OSU](https://earthsciences.osu.edu/directory):
   - [C.K. Shum](https://earthsciences.osu.edu/people/shum.3)
   - [Junyi Guo](https://earthsciences.osu.edu/people/guo.81)
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
-  - C. Zhang
+  - [Chaoyang Zhang](https://earthsciences.osu.edu/people/zhang.6404)
 
 ### G-Swarm researchers not involved in the answer to the Swarm ITT
 
@@ -34,11 +34,12 @@
 
 ## Project documents
 
-- [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT_html.html)
+- [Our answer to the ITT](http://jgte.github.io/gswarm/swarmITT/swarmITT_html.html)
 - [Project page at ResearchGate](https://www.researchgate.net/project/Multi-approach-gravity-field-models-from-Swarm-GPS-data)
-- [TN-01](http://jgte.github.io/gswarm/TN-01/TN-01_html.html) ([PDF](http://jgte.github.io/gswarm/TN-01/TN-01.pdf))
-- [MTR presentation](http://jgte.github.io/gswarm/SW_HO_TUD_GS_0001_WP200-complete.pptx)
-- [Resources for project publications](http://jgte.github.io/gswarm/resources)
+- [TN-01, Standards and Background models](http://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0001_TN-01_Standards_and_Background_models.1H.pdf)
+- [TN-02, Data Pre-processing](http://jgte.github.io/gswarm/Documents/SW_TN_ASU_GS_0001_TN-02_Data_Validation.2018-04-11.pdf)
+- [TN-03, Validation](http://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0003_TN-03_Validation.1.pdf)
+- [TN-04, Product Description](http://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0002_TN-04_ProductSpecification.1.pdf)
 
 ## Important references
 
