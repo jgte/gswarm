@@ -4,7 +4,8 @@ url: https://jgte.github.io/gswarm
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-140095141-2
-
+# https://github.com/jekyll/minima
+header_pages:
 # add a new file to your repository root named Gemfile with this content:
 # source "https://rubygems.org”
 # gem "github-pages", group: :jekyll_plugins
