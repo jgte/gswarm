@@ -1,7 +1,5 @@
 
-# title
-
-## People
+# People
 
 - [TU Delft](https://www.lr.tudelft.nl/en/organisation/departments/space-engineering/astrodynamics-and-space-missions/people/):
   - [Pieter Visser](https://www.tudelft.nl/en/staff/p.n.a.m.visser/)
@@ -28,12 +26,12 @@
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
   - [Chaoyang Zhang](https://earthsciences.osu.edu/people/zhang.6404)
 
-### G-Swarm researchers not involved in the answer to the Swarm ITT
+## G-Swarm researchers not involved in the answer to the Swarm ITT
 
 - AIUB
   - Christoph Dahle
 
-## Project documents
+# Project documents
 
 - [Our answer to the ITT](https://jgte.github.io/gswarm/swarmITT/swarmITT_html.html)
 - [Project page at ResearchGate](https://www.researchgate.net/project/Multi-approach-gravity-field-models-from-Swarm-GPS-data)
@@ -44,14 +42,14 @@
 - [Product Description @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook/level-2-product-definitions#EGF_SHA_2_)
 - [Production schedule](https://jgte.github.io/gswarm/production.html)
 
-## Important references
+# Important references
 
 - [SINEX format](https://jgte.github.io/gswarm/SINEX/)
 - [EGSIEM standards](https://jgte.github.io/gswarm/References/D2.1_Processing Standards and Models_02.03.2015.pdf) (particularly relevant are pages 7, 8 and 21)
 - [Swarm mission](earth.esa.int/swarm)
 
 
-## ITT documents
+# ITT documents
 
 - [Swarm DISC Invitations To Tender](https://www.space.dtu.dk/english/research/projects/project-descriptions/swarm/swarm_disc_itts)
 - [Cover Letter](https://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-CL-DTU-GS-111_Cover_letter_ITT_1_1_rev2.ashx?la=da)
