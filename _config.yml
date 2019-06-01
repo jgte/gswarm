@@ -1,11 +1,12 @@
-theme: minima
+theme: jekyll-theme-midnight
 url: https://jgte.github.io/gswarm
 # https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-140095141-2
-# https://github.com/jekyll/minima
-header_pages:
+# https://github.com/pages-themes/midnight
+title: Multi-approach gravity field models from Swarm GPS data
+show_downloads: false
 # add a new file to your repository root named Gemfile with this content:
 # source "https://rubygems.org”
 # gem "github-pages", group: :jekyll_plugins
