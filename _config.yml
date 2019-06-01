@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
 url: https://jgte.github.io/gswarm
 # https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 plugins:
