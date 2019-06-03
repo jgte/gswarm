@@ -37,7 +37,7 @@
 - [Project page at ResearchGate](https://www.researchgate.net/project/Multi-approach-gravity-field-models-from-Swarm-GPS-data)
 - [TN-01, Standards and Background models](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0001_TN-01_Standards_and_Background_models.1H_nosig.pdf)
 - [TN-02, Data Pre-processing](https://jgte.github.io/gswarm/Documents/SW_TN_ASU_GS_0001_TN-02_Data_Validation.2018-04-11.pdf)
-- [TN-03, Validation](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0003_TN-03_Validation.1.pdf)
+- [TN-03, Validation](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0003_TN-03_Validation.1.1.1.pdf)
 - [TN-04, Product Description](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0002_TN-04_ProductSpecification.1.pdf)
 - [Product Description @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook/level-2-product-definitions#EGF_SHA_2_)
 - [Production schedule](https://jgte.github.io/gswarm/production.html)
