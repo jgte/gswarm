@@ -39,14 +39,15 @@
 - [TN-02, Data Pre-processing](https://jgte.github.io/gswarm/Documents/SW_TN_ASU_GS_0001_TN-02_Data_Validation.2018-04-11.pdf)
 - [TN-03, Validation](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0003_TN-03_Validation.1.1.1.pdf)
 - [TN-04, Product Description](https://jgte.github.io/gswarm/Documents/SW_TN_DUT_GS_0002_TN-04_ProductSpecification.1.pdf)
-- [Product Description @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook/level-2-product-definitions#EGF_SHA_2_)
+- [Product Specification @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook/level-2-product-definitions#EGF_SHA_2_)
+- [Product Description @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/activities/scientific-projects/disc#MAGF)
 - [Production schedule](https://jgte.github.io/gswarm/production.html)
 
 # Important references
 
 - [SINEX format](https://jgte.github.io/gswarm/SINEX/)
 - [EGSIEM standards](https://jgte.github.io/gswarm/References/D2.1_Processing Standards and Models_02.03.2015.pdf) (particularly relevant are pages 7, 8 and 21)
-- [Swarm mission](earth.esa.int/swarm)
+- [Swarm mission](https://earth.esa.int/swarm)
 
 
 # ITT documents
