@@ -1,8 +1,14 @@
 
 
-Although the knowledge of the gravity of the Earth has improved considerably with CHAMP, GRACE and GOCE satellite missions, the geophysical community has identified the need for the continued monitoring of its time-variable component with the purpose of estimating the hydrological and glaciological yearly cycles and long-term trends. Currently, the GRACE-FO satellites are the sole provider of this data, while previously the GRACE mission collected these data for 15 years. Between the GRACE and GRACE-FO data periods lies a gap spanning from July 2017 to May 2018, while the Swarm satellites have collected gravimetric data with its GPS receivers since December 2013.
+Although the knowledge of the gravity of the Earth has improved considerably with CHAMP, GRACE and GOCE satellite missions, the geophysical community has identified the need for the continued monitoring of its time-variable component with the purpose of estimating the hydrological and glaciological yearly cycles and long-term trends.
+Currently, the GRACE-FO satellites are the sole provider of this data, while previously the GRACE mission collected these data for 15 years.
+Between the GRACE and GRACE-FO data periods lies a gap spanning from July 2017 to May 2018, while the Swarm satellites have collected gravimetric data with its GPS receivers since December 2013.
+
 This project aims at providing high-quality gravity field models from Swarm data that constitute an alternative and independent source of gravimetric data, which could help alleviate the consequences of the 10-month gap between GRACE and GRACE-FO, as well as the short gaps in the existing GRACE and GRACE-FO monthly time series.
-The geodetic community has realized that the combination of the different gravity field solutions is superior to any individual model. This project exploits this fact and delivers to the highest quality monthly-independent gravity field models, resulting from the combination of 4 different gravity field estimation approaches. All solutions are unconstrained and estimated independently from month to month.
+
+The geodetic community has realized that the combination of the different gravity field solutions is superior to any individual model.
+This project exploits this fact and delivers to the highest quality monthly-independent gravity field models, resulting from the combination of 4 different gravity field estimation approaches. All solutions are unconstrained and estimated independently from month to month.
+
 Preliminary comparison with GRACE data has demonstrated that the signal in the Swarm gravity field models is restricted to degrees 12-15 and below, while the temporal correlations decrease considerably above degree 10. The 750km smoothed models are suitable to retrieve the global annual temporal variations of Earth's gravity field and the agreement with GRACE over large basins (e.g. Amazon, Congo-Zambezi, Ganges-Brahmaputra) is within 1cm RMS in terms of Equivalent Water Height. The global RMS relative to a bias, trend, an annual and semi-annual model derived from GRACE over deep ocean areas (those roughly 1000km from shorelines) is under 1mm geoid height during periods of low geomagnetic activity.
 
 # People
