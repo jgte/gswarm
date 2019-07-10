@@ -36,6 +36,6 @@ If needed, a shorter form of the affiliations is:
 <sup>&#8214;</sup>University of Texas at Austin, U.S.A.;
 <sup>&para;</sup>Ohio State University, U.S.A.
 
-The corresponding MWE LaTeX code can be found [in this tex file](https://jgte.github.io/gswarm/resources/listofauthors.tex), which produces [this PDF file](https://jgte.github.io/gswarm/resources/listofauthors.pdf).
+The corresponding MWE LaTeX code can be found [in this tex file](https://jgte.github.io/gswarm/listofauthors/listofauthors.tex), which produces [this PDF file](https://jgte.github.io/gswarm/listofauthors/listofauthors.pdf).
 
 The lists are in alphabetical order, please adapt as needed.

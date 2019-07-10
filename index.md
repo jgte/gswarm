@@ -72,5 +72,8 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [Special Conditions of Tender](https://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-TC-DTU-GS-111_ITT1-1_Special_Conditions_of_Tender.ashx?la=da)
 - [Procurement Procedure](https://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SW-RS-DTU-GS-003_1B_Procurement_Procedure.ashx?la=da)
 
+# Project resources
+
+- [List of authors](https://jgte.github.io/gswarm/listofauthors/)
 
 
