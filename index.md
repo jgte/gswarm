@@ -11,6 +11,8 @@ This project exploits this fact and delivers to the highest quality monthly-inde
 
 Preliminary comparison with GRACE data has demonstrated that the signal in the Swarm gravity field models is restricted to degrees 12-15 and below, while the temporal correlations decrease considerably above degree 10. The 750km smoothed models are suitable to retrieve the global annual temporal variations of Earth's gravity field and the agreement with GRACE over large basins (e.g. Amazon, Congo-Zambezi, Ganges-Brahmaputra) is within 1cm RMS in terms of Equivalent Water Height. The global RMS relative to a bias, trend, an annual and semi-annual model derived from GRACE over deep ocean areas (those roughly 1000km from shorelines) is under 1mm geoid height during periods of low geomagnetic activity.
 
+Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS-027, part of contract 4000109587/13/I-NB
+
 # People
 
 - [TU Delft](https://www.lr.tudelft.nl/en/organisation/departments/space-engineering/astrodynamics-and-space-missions/people/):
