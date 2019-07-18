@@ -38,5 +38,4 @@
 
 This schedule is also available in [google calendars](https://calendar.google.com/calendar/embed?src=300envqh07p1chkohaeb170seg%40group.calendar.google.com):
 
-
-  <iframe src="https://calendar.google.com/calendar/embed?src=300envqh07p1chkohaeb170seg%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=UTC&amp;src=MzAwZW52cWgwN3AxY2hrb2hhZWIxNzBzZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23b90e28&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;showDate=0&amp;showNav=0" style="border-width:0" width="647" height="400" frameborder="0" scrolling="no"></iframe>
