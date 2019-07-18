@@ -30,8 +30,13 @@
   - Q2: 25 September
   - Q3: 25 December
   - Q4: 25 March
-- Data dissemination deadline (to ESA/DISC/IGS):
+- Data dissemination deadline (to ESA and IGS):
   - Q1: 30 June
   - Q2: 30 September
   - Q3: 31 December
   - Q4: 31 March
+
+This schedule is also available in [google calendars](https://calendar.google.com/calendar/embed?src=300envqh07p1chkohaeb170seg%40group.calendar.google.com):
+
+
+  <iframe src="https://calendar.google.com/calendar/embed?src=300envqh07p1chkohaeb170seg%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
