@@ -6,15 +6,15 @@
   - Q3: Jul. to Sep.
   - Q4: Oct. to Dec.
 - Kinematic orbits upload deadline (relevant to AIUB, IfG and TUD):
-  - Q1: 1 May
-  - Q2: 1 August
-  - Q3: 1 November
-  - Q4: 1 February
+  - Q1: 8 May
+  - Q2: 8 August
+  - Q3: 8 November
+  - Q4: 8 February
 - Individual model upload deadline (relevant to AIUB, ASU, IfG and OSU):
-  - Q1: 15 May
-  - Q2: 15 August
-  - Q3: 15 November
-  - Q4: 15 February
+  - Q1: 22 May
+  - Q2: 22 August
+  - Q3: 22 November
+  - Q4: 22 February
 - Pre-combination validation deadline (by email, relevant to TUD, requires revision by everyone):
   - Q1: 1 June
   - Q2: 1 September
