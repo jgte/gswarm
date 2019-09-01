@@ -13,6 +13,10 @@ Preliminary comparison with GRACE data has demonstrated that the signal in the S
 
 Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS-027, part of contract 4000109587/13/I-NB
 
+Please cite these models as:
+
+Encarnacao, J.; Visser, P.; Jaeggi, A.; Bezdek, A.; Mayer-Gürr, T.; Shum, C.K.; Arnold, D.; Doornbos, E.; Elmer, M.; Guo, J.; van den IJssel, J.; Iorfida, E.; Klokocnik, J.; Krauss, S.; Mao, X.; Meyer, U.; Sebera, J.; Zhang, C.; Zhang, Y. (2019): Multi-approach Gravity Field Models from Swarm GPS data. GFZ Data Services. [DOI: 10.5880/ICGEM.2019.006](http://doi.org/10.5880/ICGEM.2019.006)
+
 # People
 
 - [TU Delft](https://www.lr.tudelft.nl/en/organisation/departments/space-engineering/astrodynamics-and-space-missions/people/):
