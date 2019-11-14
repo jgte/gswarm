@@ -17,12 +17,11 @@ X. Mao<sup>1</sup>,                   <!--xinyuan.mao@aiub.unibe.ch-->
 T. Mayer-Gürr<sup>4</sup>,            <!--mayer-guerr@tugraz.at-->
 U. Meyer<sup>1</sup>,                 <!--ulrich.meyer@aiub.unibe.ch-->
 J. Sebera<sup>2</sup>,                <!--josef.sebera@esa.int-->
-C.K. Shum <sup>6,9</sup>,               <!--ckshum@osu.edu-->
+C.K. Shum <sup>6,9</sup>,             <!--ckshum@osu.edu-->
 P. Visser<sup>3</sup>,                <!--p.n.a.m.visser@tudelft.nl-->
 C. Zhang<sup>6</sup>,                 <!--zhang.6404@buckeyemail.osu.edu>-->
 Y. Zhang<sup>6</sup>                  <!--zhang.6345@osu.edu-->
-           
-
+C. Dahle<sup>10</sup>                 <!--dahle@gfz-potsdam.de--> 
            
 <sup>1</sup>Astronomical Institute of the University of Bern, Sidlerstrasse 5, 3012 Bern, Switzerland;
 <sup>2</sup>Astronomical Institute of the Czech Academy of Sciences, Fričova 298, 251 65 Ondřejov, Czech Republic;
@@ -33,6 +32,7 @@ Y. Zhang<sup>6</sup>                  <!--zhang.6345@osu.edu-->
 <sup>7</sup>Royal Netherlands Meteorological Institute, Utrechtseweg 297, 3731 GA De Bilt, the Netherlands;
 <sup>8</sup>Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA;
 <sup>9</sup>Institute of Geodesy and Geophysics, Chinese Academy of Sciences, Wuhan, China
+<sup>10</sup>GFZ German Research Centre for Geosciences, Potsdam, Germany
 
 If needed, a shorter form of the affiliations is:
 
@@ -45,6 +45,7 @@ If needed, a shorter form of the affiliations is:
 <sup>7</sup>Royal Netherlands Meteorological Institute, the Netherlands;
 <sup>8</sup>Jet Propulsion Laboratory, USA;
 <sup>9</sup>Institute of Geodesy and Geophysics of the Chinese Academy of Sciences, China
+<sup>10</sup>GFZ German Research Centre for Geosciences, Germany
 
 The corresponding MWE LaTeX code can be found [in this tex file](https://jgte.github.io/gswarm/listofauthors/listofauthors.tex), which produces [this PDF file](https://jgte.github.io/gswarm/listofauthors/listofauthors.pdf).
 
