@@ -11,7 +11,7 @@ This project exploits this fact and delivers to the highest quality monthly-inde
 
 Preliminary comparison with GRACE data has demonstrated that the signal in the Swarm gravity field models is restricted to degrees 12-15 and below, while the temporal correlations decrease considerably above degree 10. The 750km smoothed models are suitable to retrieve the global annual temporal variations of Earth's gravity field and the agreement with GRACE over large basins (e.g. Amazon, Congo-Zambezi, Ganges-Brahmaputra) is within 1cm RMS in terms of Equivalent Water Height. The global RMS relative to a bias, trend, an annual and semi-annual model derived from GRACE over deep ocean areas (those roughly 1000km from shorelines) is under 1mm geoid height during periods of low ionospheric activity.
 
-We publish monthly gravity models at a quarterly rate, according to our [production schedule](https://jgte.github.io/gswarm/production.html). The models can be retrieved from [ESA's Earth Online Swarm Data Access](https://swarm-diss.eo.esa.int/#swarm%2FLevel2longterm%2FEGF) and at [ICGEM](http://icgem.gfz-potsdam.de/series/03\_COST-G/Swarm).
+We publish monthly gravity models at a quarterly rate, according to our [production schedule](https://jgte.github.io/gswarm/production.html). The models can be retrieved from [ESA's Earth Online Swarm Data Access](https://swarm-diss.eo.esa.int/#swarm%2FLevel2longterm%2FEGF) and at [ICGEM]http://icgem.gfz-potsdam.de/series/02_COST-G/Swarm).
 
 Please cite these models as:
 
