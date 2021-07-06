@@ -78,6 +78,7 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0006, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0006.pdf)
 - [VR-0007, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0007.pdf)
 - [VR-0008, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0008.pdf)
+- [VR-0009, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0009.pdf)
 <!-- add more validation reports here -->
 
 # Project resources
