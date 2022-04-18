@@ -23,7 +23,7 @@ Teixeira, João; Visser, Pieter; Arnold, Daniel; Bezdek, Aleš; Doornbos, Eelco;
 
 Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS-027, part of contract 4000109587/13/I-NB
 
-# [Maps](https://jgte.github.io/gswarm/maps/index.html)
+# [Maps](https://jgte.github.io/gswarm/maps/maps.html)
 
 # People
 
