@@ -90,8 +90,6 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0017, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0017.pdf)
 - [VR-0018, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0018.pdf)
 - [VR-0019, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0019.pdf)
-- [VR-0019, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0019.pdf)
-- [VR-0020, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0020.pdf)
 - [VR-0020, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0020.pdf)
 <!-- add more validation reports here -->
 
@@ -109,6 +107,3 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [Special Conditions of Tender](https://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SD-ITT-1_1/SW-TC-DTU-GS-111_ITT1-1_Special_Conditions_of_Tender.ashx?la=da)
 - [Procurement Procedure](https://www.space.dtu.dk/english/-/media/Institutter/Space/forskning/projekter/swarm/SwarmDISC/SW-RS-DTU-GS-003_1B_Procurement_Procedure.ashx?la=da)
  -->
- 
-
-
