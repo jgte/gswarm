@@ -42,7 +42,7 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
   - [Aleš Bezdek](https://www.asu.cas.cz/~bezdek/vyzkum/)
   - [Josef Sebera](https://scholar.google.cz/citations?user=uCceqE8AAAAJ)
   - [Jaroslav Klokočník](https://www.researchgate.net/profile/Jaroslav-Klokocnik)
-- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions)
+- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions):
   - [Christoph Dahle](https://www.gfz-potsdam.de/en/staff/christoph.dahle/sec12)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
   - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
@@ -52,7 +52,6 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
   - [C.K. Shum](https://earthsciences.osu.edu/people/shum.3)
   - [Junyi Guo](https://earthsciences.osu.edu/people/guo.81)
   - [Yu Zhang](https://earthsciences.osu.edu/people/zhang.6345)
-  - [Chaoyang Zhang](https://earthsciences.osu.edu/people/zhang.6404)
 
 ## G-Swarm researchers not involved in the answer to the Swarm ITT
 
