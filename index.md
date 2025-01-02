@@ -38,12 +38,12 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
   - [Adrian Jaggi](https://www.aiub.unibe.ch/ueber_uns/personen/prof_dr_jaeggi_adrian/index_ger.html)
   - [Daniel Arnold](https://www.aiub.unibe.ch/ueber_uns/personen/dr_arnold_daniel/index_ger.html)
   - [Ulrich Meyer](https://www.aiub.unibe.ch/ueber_uns/personen/dr_meyer_ulrich/index_ger.html)
-- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions)
-  - [Christoph Dahle](https://www.gfz-potsdam.de/en/staff/christoph.dahle/sec12)
 - [ASU](https://galaxy.asu.cas.cz/planets/index.php?page=people):
   - [Aleš Bezdek](https://www.asu.cas.cz/~bezdek/vyzkum/)
   - [Josef Sebera](https://scholar.google.cz/citations?user=uCceqE8AAAAJ)
   - [Jaroslav Klokočník](https://www.researchgate.net/profile/Jaroslav-Klokocnik)
+- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions)
+  - [Christoph Dahle](https://www.gfz-potsdam.de/en/staff/christoph.dahle/sec12)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
   - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
   - [Sandro Krauss](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F57785AFEDC61EF9)
