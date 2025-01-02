@@ -39,9 +39,9 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
   - [Daniel Arnold](https://www.aiub.unibe.ch/ueber_uns/personen/dr_arnold_daniel/index_ger.html)
   - [Ulrich Meyer](https://www.aiub.unibe.ch/ueber_uns/personen/dr_meyer_ulrich/index_ger.html)
 - [ASU](https://galaxy.asu.cas.cz/planets/index.php?page=people):
-  - [Aleš Bezdek](https://www1.asu.cas.cz/person/bezdek.html)
+  - [Aleš Bezdek](https://www.asu.cas.cz/~bezdek/vyzkum/)
   - [Josef Sebera](https://scholar.google.cz/citations?user=uCceqE8AAAAJ)
-  - [Jaroslav Klokočník](https://www1.asu.cas.cz/person/klokocnik.html)
+  - [Jaroslav Klokočník](https://www.researchgate.net/profile/Jaroslav-Klokocnik)
 - [IfG](https://www.tugraz.at/institute/ifg/institute/team/):
   - [Torsten Mayer-Gürr](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=ADD0610FA1295423)
   - [Sandro Krauss](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F57785AFEDC61EF9)
@@ -59,10 +59,9 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 
 # Relevant links
 
-- [Project page at ResearchGate](https://www.researchgate.net/project/Multi-approach-gravity-field-models-from-Swarm-GPS-data)
 - [Product Specification @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook/level-2-product-definitions#EGF_SHA_2_)
 - [Product Description @ esa.int](https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/activities/scientific-projects/disc#MAGF)
-- [Swarm mission](https://earth.esa.int/swarm)
+- [Swarm mission](https://earth.esa.int/eogateway/missions/swarm)
 
 # Project documents
 
