@@ -37,8 +37,8 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [AIUB](https://www.aiub.unibe.ch/about_us/team/index_eng.html):
   - [Adrian Jaggi](https://www.aiub.unibe.ch/ueber_uns/personen/prof_dr_jaeggi_adrian/index_ger.html)
   - [Daniel Arnold](https://www.aiub.unibe.ch/ueber_uns/personen/dr_arnold_daniel/index_ger.html)
-- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions)
   - [Ulrich Meyer](https://www.aiub.unibe.ch/ueber_uns/personen/dr_meyer_ulrich/index_ger.html)
+- [GFZ](https://www.gfz-potsdam.de/en/section/global-geomonitoring-and-gravity-field/topics/development-operation-and-analysis-of-gravity-field-satellite-missions)
   - [Christoph Dahle](https://www.gfz-potsdam.de/en/staff/christoph.dahle/sec12)
 - [ASU](https://galaxy.asu.cas.cz/planets/index.php?page=people):
   - [Aleš Bezdek](https://www.asu.cas.cz/~bezdek/vyzkum/)
