@@ -81,6 +81,7 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0008, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0008.pdf)
 - [VR-0009, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0009.pdf)
 - [VR-0010, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0010.pdf)
+- [VR-0011, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0011.pdf)
 - [VR-0012, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0012.pdf)
 - [VR-0013, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0013.pdf)
 - [VR-0014, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0014.pdf)
@@ -90,7 +91,6 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0018, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0018.pdf)
 - [VR-0019, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0019.pdf)
 - [VR-0020, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0020.pdf)
-- [VR-0021, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0021.pdf)
 <!-- add more validation reports here -->
 
 # Project resources
