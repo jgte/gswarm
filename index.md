@@ -81,7 +81,7 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0008, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0008.pdf) up to 2020-12-31
 - [VR-0009, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0009.pdf) up to 2021-03-31
 - [VR-0010, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0010.pdf) up to 2021-06-30
-- [VR-0011, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0011.pdf) from 2020-01001 to 2021-06-30
+- [VR-0011, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0011.pdf) from 2020-01-01 to 2021-06-30
 - [VR-0012, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0012.pdf) up to 2021-09-30
 - [VR-0013, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0013.pdf) up to 2021-12-31
 - [VR-0014, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0014.pdf) up to 2022-03-31
