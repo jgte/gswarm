@@ -81,17 +81,18 @@ Funded by the European Space Agency, contracts SW-CO-DTU-GS-111 and SW-CN-DTU-GS
 - [VR-0008, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0008.pdf) up to 2020-12-31
 - [VR-0009, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0009.pdf) up to 2021-03-31
 - [VR-0010, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0010.pdf) up to 2021-06-30
-- [VR-0011, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0011.pdf) up to 2021-09-30
-- [VR-0012, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0012.pdf) up to 2021-12-31
-- [VR-0013, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0013.pdf) up to 2022-03-31
-- [VR-0014, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0014.pdf) up to 2022-09-30
-- [VR-0015, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0015.pdf) up to 2022-12-31
-- [VR-0016, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0016.pdf) up to 2023-03-31
-- [VR-0017, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0017.pdf) up to 2023-06-30
-- [VR-0018, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0018.pdf) up to 2023-12-31
-- [VR-0019, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0019.pdf) up to 2024-09-30
-- [VR-0020, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0020.pdf) up to 2024-12-31
-- [VR-0021, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0021.pdf)
+- [VR-0011, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0011.pdf) from 2020-01001 to 2021-06-30
+- [VR-0012, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0012.pdf) up to 2021-09-30
+- [VR-0013, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0013.pdf) up to 2021-12-31
+- [VR-0014, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0014.pdf) up to 2022-03-31
+- [VR-0015, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0015.pdf) up to 2022-09-30
+- [VR-0016, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0016.pdf) up to 2022-12-31
+- [VR-0017, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0017.pdf) up to 2023-03-31
+- [VR-0018, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0018.pdf) up to 2023-06-30
+- [VR-0019, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0019.pdf) up to 2023-12-31
+- [VR-0020, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0020.pdf) up to 2024-09-30
+- [VR-0021, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0021.pdf) up to 2024-12-31
+- [VR-0022, Validation Report](https://jgte.github.io/gswarm/Documents/SW_VR_DUT_GS_0022.pdf) up to 2025-03-31
 <!-- add more validation reports here -->
 
 # Project resources
